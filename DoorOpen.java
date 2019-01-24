@@ -21,8 +21,8 @@ public static void main(String[] args) {
 int length=101;
 int arr[]=new int[length]; // by default all doors are closed . Lets assume
 
-System.out.println(“0 is closed”);
-System.out.println(“1 is open”);
+System.out.println("0 is closed");
+System.out.println("1 is open");
 
 for (int i=1;i <length; i++)
 {
